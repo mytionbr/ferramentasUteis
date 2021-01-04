@@ -1,0 +1,11 @@
+{
+  "name": "ferramentasuteis",
+  "version": "1.0.0",
+  "description": "Ferramentas que podem ser uteis no dia a dia.",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Sousa de Jesus",
+  "license": "ISC"
+}
